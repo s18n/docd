@@ -31,7 +31,7 @@ This section will provide more in-depth documentation for this project.
 
 ## Contributing
 
-Want to contribute to this project? Check out our [Contributing guidelines](CONTRIBUTING.md) for more information.
+Want to contribute to this project? Check out our [Contributing guidelines](docs/CONTRIBUTING.md) for more information.
 
 ## License
 
