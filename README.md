@@ -3,6 +3,7 @@
 * [Introduction](#introduction)
 * [Getting Started](#getting-started)
 * [Documentation](#documentation)
+	+ [Architecture](#architecture)
 	+ [Troubleshooting](#troubleshooting)
 * [Contributing](#contributing)
 * [License](#license)
