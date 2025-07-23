@@ -1,9 +1,0 @@
-title: DocD
-description: Project documentation.
-url: https://s18n.github.io/docd
-
-theme: jekyll-swiss
-
-plugins:
-  - jekyll-titles-from-headings
-  - kramdown-parser-gfm
