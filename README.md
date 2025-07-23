@@ -1,11 +1,10 @@
-# My Project
+# DocD
 
 ## Table of Contents
 
 * [Introduction](#introduction)
 * [Getting Started](#getting-started)
 * [Documentation](#documentation)
-	+ [Configuration](#configuration)
 	+ [Troubleshooting](#troubleshooting)
 * [Contributing](#contributing)
 * [License](#license)
@@ -22,18 +21,15 @@ This section will cover the basics of getting started with this project.
 
 This section will provide more in-depth documentation for this project.
 
-### Configuration
-
-This section will cover the configuration options for this project.
-
 ### Troubleshooting
 
-This section will cover troubleshooting tips for this project.
+* [Common Issues](docs/troubleshooting/common-issues.md)
+* [Error Codes](docs/troubleshooting/error-codes.md)
 
 ## Contributing
 
-If you'd like to contribute to this project, please see the contributing guidelines.
+Want to contribute to this project? Check out our [Contributing guidelines](CONTRIBUTING.md) for more information.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. Check out our [License](LICENSE.md) for more information.
