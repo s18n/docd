@@ -6,3 +6,4 @@ theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-mermaid
+  - jekyll-toc
