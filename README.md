@@ -1,5 +1,3 @@
-# DocD
-
 ## Table of Contents
 
 * [Introduction](#introduction)
