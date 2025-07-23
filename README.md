@@ -19,6 +19,10 @@ This section will cover the basics of getting started with this project.
 
 This section will provide more in-depth documentation for this project.
 
+### Architecture
+
+* [Architecture Diagram](docs/architecture/coffee.md)
+
 ### Troubleshooting
 
 * [Common Issues](docs/troubleshooting/common-issues.md)
