@@ -5,4 +5,4 @@ url: https://s18n.github.io/docd
 theme: jekyll-theme-minimal
 
 plugins:
-  - jekyll-feed
+  - jekyll-mermaid
